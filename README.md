@@ -1,0 +1,2 @@
+# SmartReport
+Smart Git
